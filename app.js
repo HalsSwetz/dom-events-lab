@@ -38,6 +38,12 @@ const operands = Array.from(document.querySelectorAll('.button.operator'));
 
 
 
+//tried a few different stategies to write this code, the 
+//one i used seemed like the most straighforward way to get a functioning
+//calculator by using eval()
+
+
+
 
 // const equals = document.querySelector('.button.equals');
 
